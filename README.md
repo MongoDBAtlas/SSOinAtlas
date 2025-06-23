@@ -158,7 +158,7 @@ Request Binding 은 Http Post를 선택 하고 Response Signature Algorithm 은 
 <img src="/images/image44.png" width="40%" height="40%">    
 
 완료 버튼을 클릭하면 Atlas가 제공하는 SAML 의 Meta 정보를 받을 수 있는 페이지가 오픈 됩니다. Atlas의 Federation 정보를 저장하고 있는 metadata 파일을 다운로드 받습니다.    
-<img src="/images/image45.png" width="90%" height=90%">    
+<img src="/images/image45.png" width="90%" height="90%">    
 
 설정을 완료한 후 identity provider와 관련 도메인과 조직에 대한 정보를 입력하여 전체 설정을 완료 합니다.    
 <img src="/images/image46.png" width="80%" height="80%">    
